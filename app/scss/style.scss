@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::afret{
+    box-sizing: inherit;
+}
+
+body{
+    background-color: red;
+    width: 100px;
+    display: flex;
+}
+
